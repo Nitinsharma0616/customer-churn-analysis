@@ -30,3 +30,11 @@ IBM Telco Customer Churn Dataset.
 ## Dashboard Preview
 
 ![Customer Churn Dashboard](dashboard.png)
+## Project Structure
+
+customer-churn-analysis/
+│
+├── README.md
+├── customer_churn_analysis.sql
+├── customer_churn_dashboard.pbix
+└── dashboard.png
