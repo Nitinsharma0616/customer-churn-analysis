@@ -27,3 +27,6 @@ Business Recommendations
 - Develop targeted retention campaigns to reduce revenue loss.
 Dataset
 IBM Telco Customer Churn Dataset.
+## Dashboard Preview
+
+![Customer Churn Dashboard](dashboard.png)
